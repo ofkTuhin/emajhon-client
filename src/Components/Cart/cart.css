@@ -1,0 +1,11 @@
+.total{
+    color: brown;
+    font-weight: 800;
+}
+span{
+    content: '';
+    display: block;
+    background-color: cadetblue;
+    height: 2px;
+    width: 100%;
+}
